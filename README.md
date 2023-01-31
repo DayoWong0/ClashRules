@@ -6,7 +6,7 @@ Clash分流规则
 
 ## 一把梭
 
-打开[肥羊订阅转换前端](https://sub.v1.mk/)，填入必要信息（远程配置——https://raw.githubusercontent.com/cutethotw/ClashRule/main/GeneralClashRule.ini ），用就完事了
+打开[肥羊订阅转换前端](https://sub.v1.mk/)，填入必要信息（远程配置——https://raw.githubusercontent.com/DayoWong0/ClashRules/main/DayoWong0.ini ），用就完事了
 [![vDhTA0.png](https://s1.ax1x.com/2022/08/18/vDhTA0.png)](https://imgtu.com/i/vDhTA0)
 
 [![zULXWt.png](https://s1.ax1x.com/2022/11/28/zULXWt.png)](https://imgse.com/i/zULXWt)
