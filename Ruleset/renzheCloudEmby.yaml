@@ -1,4 +1,4 @@
 # 内容：忍者云emby
 payload:
-  - DOMAIN-SUFFIX,emby.renzhe.work
-  - DOMAIN-SUFFIX,p.theatre.renzhe.cloud
+  - DOMAIN,emby.renzhe.work
+  - DOMAIN,p.theatre.renzhe.cloud
