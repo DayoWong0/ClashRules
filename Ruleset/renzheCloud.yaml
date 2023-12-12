@@ -1,8 +1,9 @@
 # 内容：忍者云emby以及其他限制节点的服务
 payload:
+  - DOMAIN-KEYWORD,renzhe
+  - DOMAIN-KEYWORD,zapier
   - DOMAIN,emby.renzhe.work
+  - DOMAIN,new-interface-chatbot.zapier.app
   - DOMAIN,p.theatre.renzhe.cloud
   - DOMAIN,ncnlinks.com
   - DOMAIN,share.renzhe.cloud
-  - DOMAIN-KEYWORD,renzhe
-  
