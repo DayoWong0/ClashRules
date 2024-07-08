@@ -2,7 +2,5 @@ DOMAIN-SUFFIX,ip138.com
 DOMAIN-SUFFIX,ip.cn
 DOMAIN-SUFFIX,ip.chinaz.com
 DOMAIN-SUFFIX,tool.lu
-IP-CIDR,67.230.0.0/24,no-resolve
+IP-CIDR,67.230.165.0/24,no-resolve
 # 自用搬瓦工IP地址段，直连
-
-
