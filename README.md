@@ -1,4 +1,6 @@
 # ClashRules
+[分流规则集-blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash)
+
 Clash分流规则
 # 订阅转换教程
 
