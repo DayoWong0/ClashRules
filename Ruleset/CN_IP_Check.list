@@ -3,8 +3,6 @@ DOMAIN-SUFFIX,ip.cn
 DOMAIN-SUFFIX,ip.chinaz.com
 DOMAIN-SUFFIX,tool.lu
 
-DOMAIN-SUFFIX,micu.hk
-
 # 直连
 IP-CIDR,137.220.0.0/24,no-resolve
 IP-CIDR,144.202.0.0/24,no-resolve
