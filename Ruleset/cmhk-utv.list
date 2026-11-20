@@ -1,2 +1,3 @@
 DOMAIN-SUFFIX,gslb.cdn.hk.chinamobile.com
 IP-CIDR,129.227.87.52/32,no-resolve
+IP-CIDR,223.121.14.246/32,no-resolve
